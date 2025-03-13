@@ -12,3 +12,4 @@ C:\Users\lenovo\source\repos\OOP\obj\Debug\net8.0\refint\OOP.dll
 C:\Users\lenovo\source\repos\OOP\obj\Debug\net8.0\OOP.pdb
 C:\Users\lenovo\source\repos\OOP\obj\Debug\net8.0\OOP.genruntimeconfig.cache
 C:\Users\lenovo\source\repos\OOP\obj\Debug\net8.0\ref\OOP.dll
+C:\Users\lenovo\source\repos\OOP\obj\Debug\net8.0\OOP.sourcelink.json
